@@ -10,7 +10,7 @@
 
     <groupId>org.codice.testify.assertions</groupId>
     <artifactId>notsoapfaultassertion</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2-SNAPSHOT</version>
     <packaging>bundle</packaging>
     <name>Not SOAP Fault Assertion</name>
 
@@ -18,7 +18,7 @@
         <connection>scm:git:https://github.com/testify/NotSOAPFaultAssertion.git</connection>
         <developerConnection>scm:git:https://github.com/testify/NotSOAPFaultAssertion.git</developerConnection>
         <url>https://github.com/testify/NotSOAPFaultAssertion.git</url>
-      <tag>notsoapfaultassertion-0.0.1</tag>
+      <tag>HEAD</tag>
   </scm>
 
     <properties>
